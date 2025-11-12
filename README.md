@@ -9,5 +9,5 @@ This is a small notes project created to learn and demonstrate varios web techno
 - Bootstrap
 
 ## Getting Started
-1. Clone the repository (https://github.com/LisAY22/Notes.git)[https://github.com/LisAY22/Notes.git]
+1. Clone the repository [https://github.com/LisAY22/Notes.git](https://github.com/LisAY22/Notes.git)
 2. Follow the instructions in the README.md files.
