@@ -1,11 +1,17 @@
 # FRONTEND
 This project is a frontend user interface for the "Notes" project. It connects to its own API to fetch data.
 
+## Features
+- View all notes
+- Add new notes
+
 ## Technologies
 - Node.js
 - React
 - Bootstrap
+- JavaScript
 
+# Hot to Get Started
 ## Requirements
 - Node.js
 - The API needs to be running

@@ -5,8 +5,10 @@ This is a small notes project created to learn and demonstrate varios web techno
 - Python 
 - FastAPI
 - SQLite
+- Uvicorn
 - React
 - Bootstrap
+- Vite
 
 ## Getting Started
 1. Clone the repository [https://github.com/LisAY22/Notes.git](https://github.com/LisAY22/Notes.git)

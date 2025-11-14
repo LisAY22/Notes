@@ -1,7 +1,6 @@
 # API
 This is a simple REST API that serves as the backend for the notes project. 
 
-
 ## Technologies
 - Python
 - FastAPI
@@ -9,6 +8,7 @@ This is a simple REST API that serves as the backend for the notes project.
 - SQLAlchemy 
 - Postman (Optional)
 
+# How to Get Started
 ## Requirements
 - Python
 - Postman (Optional)
