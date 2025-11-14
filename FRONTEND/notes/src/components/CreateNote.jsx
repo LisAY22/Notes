@@ -1,7 +1,7 @@
 import React from 'react';
 import { createNote } from '../services/NotesAPI.js';
 
-function CreateNote(){
+function CreateNote({onNotesChange}) {
     const [note, setNote] = React.useState({
         title: '',
         content: ''
@@ -23,6 +23,7 @@ function CreateNote(){
 
         try {
             await createNote(note);
+            onNotesChange();
             window.alert('Note created successfully!');
             setNote({ title: '', content: '' });
         } catch (error) {
